@@ -1,0 +1,7 @@
+cho "# netflix" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/tubiez/netflix.git
+sign in    https://www.netflix.com/gb/login
